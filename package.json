@@ -1,0 +1,19 @@
+{
+  "name": "jquery-mousewheel",
+  "version": "3.0.6",
+  "description": "Handles vertical / horizontal scrolling",
+  "main": "jquery.mousewheel.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvelapp/jquery-mousewheel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jquery/jquery-mousewheel/issues"
+  },
+  "homepage": "https://github.com/jquery/jquery-mousewheel/blob/master/README.md"
+}
