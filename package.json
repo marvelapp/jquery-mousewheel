@@ -2,7 +2,7 @@
   "name": "jquery-mousewheel",
   "version": "3.0.6",
   "description": "Handles vertical / horizontal scrolling",
-  "main": "jquery.mousewheel.min.js",
+  "main": "jquery.mousewheel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
